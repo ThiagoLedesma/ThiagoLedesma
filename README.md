@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Thiago!
 
-<!--
-**ThiagoLedesma/ThiagoLedesma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspirante a Data Engineer  
+💻 Aprendiendo: SQL, Python, Airflow, Docker  
+🚀 Construyendo proyectos de pipelines de datos  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Databases:** PostgreSQL, SQL Server
+- **Languages:** Python, SQL
+- **Tools:** Git, Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+[LinkedIn] | thiago.ledesma.data@gmail.com
